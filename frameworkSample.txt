@@ -6,7 +6,7 @@ function A {
 }
 
 
-function hi {
+function print_text {
 	print "Hi!";
 }
 
